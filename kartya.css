@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+
+body {
+    background: url('aszok.png');
+    background-size: 300px;
+}
+
+h1
+{
+    font-family: 'Alex Brush', cursive!important;
+    font-size: 100px!important;
+    text-align: center;
+}
