@@ -12,3 +12,8 @@ h1
     font-size: 100px!important;
     text-align: center;
 }
+
+.col-md-12 {
+    height: 300px;
+    width: auto;
+}
